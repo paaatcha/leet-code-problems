@@ -8,3 +8,6 @@ I'm using Python to solve the problems. But, the presented solutions are general
 
 ## Quick access to the problems and solutions:
 * [Day 1](day-1/): Single number
+* [Day 2](day-2/): Happy number
+* [Day 3](day-3/): Maximum subarray
+* [Day 4](day-4/): Move zeroes
