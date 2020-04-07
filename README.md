@@ -11,3 +11,8 @@ I'm using Python to solve the problems. But, the presented solutions are general
 * [Day 2](day-2/): Happy number
 * [Day 3](day-3/): Maximum subarray
 * [Day 4](day-4/): Move zeroes
+* [Day 5](day-5/): Best Time to Buy and Sell Stock II
+* [Day 6](day-6/): Group Anagrams
+* [Day 7](day-7/): Counting Elements
+
+
