@@ -14,5 +14,8 @@ I'm using Python to solve the problems. But, the presented solutions are general
 * [Day 5](day-5/): Best Time to Buy and Sell Stock II
 * [Day 6](day-6/): Group Anagrams
 * [Day 7](day-7/): Counting Elements
+* [Day 8](day-8/): Middle of the linked list
+* [Day 9](day-9/): Backspace String Compare
+* [Day 10](day-10/): Min Stack
 
 
