@@ -1,21 +1,19 @@
-# 30-Day LeetCoding Challenge
+# Leet code problems
 
-[LeetCode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/) is platform to practice coding skills. During the coronavirus quarentine, they are hosting a 30-day coding challenge. 
-
-In this repository, I'm uploading my codes to solve the problems and some discussions about the solution I used. Feel free to make any commentary.
+[LeetCode](https://leetcode.com) is platform to practice coding skills. In this repository, I upload my solutions and some discussions for the problems I have solved. Feel free to make any commentary.
 
 I'm using Python to solve the problems. But, the presented solutions are general.
 
 ## Quick access to the problems and solutions:
-* [Day 1](day-1/): Single number
-* [Day 2](day-2/): Happy number
-* [Day 3](day-3/): Maximum subarray
-* [Day 4](day-4/): Move zeroes
-* [Day 5](day-5/): Best Time to Buy and Sell Stock II
-* [Day 6](day-6/): Group Anagrams
-* [Day 7](day-7/): Counting Elements
-* [Day 8](day-8/): Middle of the linked list
-* [Day 9](day-9/): Backspace String Compare
-* [Day 10](day-10/): Min Stack
+* [Problem 1](Problem-1/): Single number
+* [Problem 2](Problem-2/): Happy number
+* [Problem 3](Problem-3/): Maximum subarray
+* [Problem 4](Problem-4/): Move zeroes
+* [Problem 5](Problem-5/): Best Time to Buy and Sell Stock II
+* [Problem 6](Problem-6/): Group Anagrams
+* [Problem 7](Problem-7/): Counting Elements
+* [Problem 8](Problem-8/): Middle of the linked list
+* [Problem 9](Problem-9/): Backspace String Compare
+* [Problem 10](Problem-10/): Min Stack
 
 
